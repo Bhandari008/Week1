@@ -1,0 +1,15 @@
+F:\6thSemLab\Week1\BaseClassEx\bin\Debug\net6.0\BaseClassEx.exe
+F:\6thSemLab\Week1\BaseClassEx\bin\Debug\net6.0\BaseClassEx.deps.json
+F:\6thSemLab\Week1\BaseClassEx\bin\Debug\net6.0\BaseClassEx.runtimeconfig.json
+F:\6thSemLab\Week1\BaseClassEx\bin\Debug\net6.0\BaseClassEx.dll
+F:\6thSemLab\Week1\BaseClassEx\bin\Debug\net6.0\BaseClassEx.pdb
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.csproj.AssemblyReference.cache
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.AssemblyInfoInputs.cache
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.AssemblyInfo.cs
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.csproj.CoreCompileInputs.cache
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.dll
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\refint\BaseClassEx.dll
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.pdb
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\BaseClassEx.genruntimeconfig.cache
+F:\6thSemLab\Week1\BaseClassEx\obj\Debug\net6.0\ref\BaseClassEx.dll
