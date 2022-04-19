@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hybrid_Ex/1.0.0": {
+        "runtime": {
+          "Hybrid_Ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hybrid_Ex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

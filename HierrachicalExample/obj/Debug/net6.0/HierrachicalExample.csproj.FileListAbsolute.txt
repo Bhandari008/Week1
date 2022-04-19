@@ -1,0 +1,15 @@
+F:\6thSemLab\dotnet\HierrachicalExample\bin\Debug\net6.0\HierrachicalExample.exe
+F:\6thSemLab\dotnet\HierrachicalExample\bin\Debug\net6.0\HierrachicalExample.deps.json
+F:\6thSemLab\dotnet\HierrachicalExample\bin\Debug\net6.0\HierrachicalExample.runtimeconfig.json
+F:\6thSemLab\dotnet\HierrachicalExample\bin\Debug\net6.0\HierrachicalExample.dll
+F:\6thSemLab\dotnet\HierrachicalExample\bin\Debug\net6.0\HierrachicalExample.pdb
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.csproj.AssemblyReference.cache
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.AssemblyInfoInputs.cache
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.AssemblyInfo.cs
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.csproj.CoreCompileInputs.cache
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.dll
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\refint\HierrachicalExample.dll
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.pdb
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\HierrachicalExample.genruntimeconfig.cache
+F:\6thSemLab\dotnet\HierrachicalExample\obj\Debug\net6.0\ref\HierrachicalExample.dll

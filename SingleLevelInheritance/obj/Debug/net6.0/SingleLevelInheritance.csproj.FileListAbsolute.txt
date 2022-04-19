@@ -1,0 +1,15 @@
+F:\6thSemLab\dotnet\SingleLevelInheritance\bin\Debug\net6.0\SingleLevelInheritance.exe
+F:\6thSemLab\dotnet\SingleLevelInheritance\bin\Debug\net6.0\SingleLevelInheritance.deps.json
+F:\6thSemLab\dotnet\SingleLevelInheritance\bin\Debug\net6.0\SingleLevelInheritance.runtimeconfig.json
+F:\6thSemLab\dotnet\SingleLevelInheritance\bin\Debug\net6.0\SingleLevelInheritance.dll
+F:\6thSemLab\dotnet\SingleLevelInheritance\bin\Debug\net6.0\SingleLevelInheritance.pdb
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.csproj.AssemblyReference.cache
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.AssemblyInfoInputs.cache
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.AssemblyInfo.cs
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.csproj.CoreCompileInputs.cache
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.dll
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\refint\SingleLevelInheritance.dll
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.pdb
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\SingleLevelInheritance.genruntimeconfig.cache
+F:\6thSemLab\dotnet\SingleLevelInheritance\obj\Debug\net6.0\ref\SingleLevelInheritance.dll

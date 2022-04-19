@@ -1,0 +1,15 @@
+F:\6thSemLab\dotnet\Week1\bin\Debug\net6.0\ConstructorExample.exe
+F:\6thSemLab\dotnet\Week1\bin\Debug\net6.0\ConstructorExample.deps.json
+F:\6thSemLab\dotnet\Week1\bin\Debug\net6.0\ConstructorExample.runtimeconfig.json
+F:\6thSemLab\dotnet\Week1\bin\Debug\net6.0\ConstructorExample.dll
+F:\6thSemLab\dotnet\Week1\bin\Debug\net6.0\ConstructorExample.pdb
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.csproj.AssemblyReference.cache
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.AssemblyInfoInputs.cache
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.AssemblyInfo.cs
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.csproj.CoreCompileInputs.cache
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.dll
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\refint\ConstructorExample.dll
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.pdb
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ConstructorExample.genruntimeconfig.cache
+F:\6thSemLab\dotnet\Week1\obj\Debug\net6.0\ref\ConstructorExample.dll

@@ -1,0 +1,15 @@
+F:\6thSemLab\dotnet\Hybrid_Ex\bin\Debug\net6.0\Hybrid_Ex.exe
+F:\6thSemLab\dotnet\Hybrid_Ex\bin\Debug\net6.0\Hybrid_Ex.deps.json
+F:\6thSemLab\dotnet\Hybrid_Ex\bin\Debug\net6.0\Hybrid_Ex.runtimeconfig.json
+F:\6thSemLab\dotnet\Hybrid_Ex\bin\Debug\net6.0\Hybrid_Ex.dll
+F:\6thSemLab\dotnet\Hybrid_Ex\bin\Debug\net6.0\Hybrid_Ex.pdb
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.csproj.AssemblyReference.cache
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.AssemblyInfoInputs.cache
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.AssemblyInfo.cs
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.csproj.CoreCompileInputs.cache
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.dll
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\refint\Hybrid_Ex.dll
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.pdb
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\Hybrid_Ex.genruntimeconfig.cache
+F:\6thSemLab\dotnet\Hybrid_Ex\obj\Debug\net6.0\ref\Hybrid_Ex.dll

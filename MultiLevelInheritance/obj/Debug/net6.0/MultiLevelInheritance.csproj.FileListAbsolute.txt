@@ -1,0 +1,15 @@
+F:\6thSemLab\dotnet\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.exe
+F:\6thSemLab\dotnet\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.deps.json
+F:\6thSemLab\dotnet\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.runtimeconfig.json
+F:\6thSemLab\dotnet\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.dll
+F:\6thSemLab\dotnet\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.pdb
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.csproj.AssemblyReference.cache
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.AssemblyInfoInputs.cache
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.AssemblyInfo.cs
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.dll
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\refint\MultiLevelInheritance.dll
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.pdb
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.genruntimeconfig.cache
+F:\6thSemLab\dotnet\MultiLevelInheritance\obj\Debug\net6.0\ref\MultiLevelInheritance.dll
