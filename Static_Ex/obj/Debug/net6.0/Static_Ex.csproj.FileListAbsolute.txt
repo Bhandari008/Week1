@@ -1,0 +1,15 @@
+F:\6thSemLab\Week1\Static_Ex\bin\Debug\net6.0\Static_Ex.exe
+F:\6thSemLab\Week1\Static_Ex\bin\Debug\net6.0\Static_Ex.deps.json
+F:\6thSemLab\Week1\Static_Ex\bin\Debug\net6.0\Static_Ex.runtimeconfig.json
+F:\6thSemLab\Week1\Static_Ex\bin\Debug\net6.0\Static_Ex.dll
+F:\6thSemLab\Week1\Static_Ex\bin\Debug\net6.0\Static_Ex.pdb
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.csproj.AssemblyReference.cache
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.AssemblyInfoInputs.cache
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.AssemblyInfo.cs
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.csproj.CoreCompileInputs.cache
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.dll
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\refint\Static_Ex.dll
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.pdb
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\Static_Ex.genruntimeconfig.cache
+F:\6thSemLab\Week1\Static_Ex\obj\Debug\net6.0\ref\Static_Ex.dll
