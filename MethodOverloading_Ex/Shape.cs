@@ -13,7 +13,7 @@ namespace MethodOverloading_Ex
         {
             return l * b;
         }
-        // Area of Square
+        // Method Overloading by chaning number of Parameters
         public static int Area(int l)
         {
             return l * l;
