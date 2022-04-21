@@ -1,0 +1,15 @@
+F:\6thSemLab\Week1\IndexersExample\bin\Debug\net6.0\IndexersExample.exe
+F:\6thSemLab\Week1\IndexersExample\bin\Debug\net6.0\IndexersExample.deps.json
+F:\6thSemLab\Week1\IndexersExample\bin\Debug\net6.0\IndexersExample.runtimeconfig.json
+F:\6thSemLab\Week1\IndexersExample\bin\Debug\net6.0\IndexersExample.dll
+F:\6thSemLab\Week1\IndexersExample\bin\Debug\net6.0\IndexersExample.pdb
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.csproj.AssemblyReference.cache
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.AssemblyInfoInputs.cache
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.AssemblyInfo.cs
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.csproj.CoreCompileInputs.cache
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.dll
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\refint\IndexersExample.dll
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.pdb
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\IndexersExample.genruntimeconfig.cache
+F:\6thSemLab\Week1\IndexersExample\obj\Debug\net6.0\ref\IndexersExample.dll
