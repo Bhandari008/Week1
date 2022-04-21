@@ -1,0 +1,15 @@
+F:\6thSemLab\Week1\PartialClassExample\bin\Debug\net6.0\PartialClassExample.exe
+F:\6thSemLab\Week1\PartialClassExample\bin\Debug\net6.0\PartialClassExample.deps.json
+F:\6thSemLab\Week1\PartialClassExample\bin\Debug\net6.0\PartialClassExample.runtimeconfig.json
+F:\6thSemLab\Week1\PartialClassExample\bin\Debug\net6.0\PartialClassExample.dll
+F:\6thSemLab\Week1\PartialClassExample\bin\Debug\net6.0\PartialClassExample.pdb
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.AssemblyReference.cache
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfoInputs.cache
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfo.cs
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.CoreCompileInputs.cache
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.dll
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\refint\PartialClassExample.dll
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.pdb
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\PartialClassExample.genruntimeconfig.cache
+F:\6thSemLab\Week1\PartialClassExample\obj\Debug\net6.0\ref\PartialClassExample.dll
