@@ -3,7 +3,7 @@
 ## 2. Properties in C#
 ## 3. SingleLevelInheritance
 ## 4. MultiLevelInheritance
-## 5. HierarchincalInheritance
+## 5. HierarchicalInheritance
 ## 6. HybridInheritance
 ## 7. MultipleInheritance
 ## 8. Sealed Class
